@@ -9,7 +9,7 @@
 
 This repository contains Power BI dashboard projects completed as part of the **CodeAlpha Internship 2026**. The projects focus on business intelligence, data visualization, KPI tracking, forecasting, and interactive dashboard development using publicly available datasets.
 
-## Projects Included
+## 📌 Projects Included
 
 ### 1. Financial Health Dashboard
 
@@ -37,7 +37,7 @@ The Human Resources Analytics Dashboard supports HR decision-making by analyzing
 - Scenario-based hiring needs forecasting
 - Interactive HR decision-support visuals
 
-## Tools And Technologies Used
+## 🛠️ Tools And Technologies Used
 
 - Power BI Desktop
 - Power Query
@@ -49,7 +49,7 @@ The Human Resources Analytics Dashboard supports HR decision-making by analyzing
 - Interactive dashboards
 - Forecasting and scenario analysis
 
-## Skills Demonstrated
+## 📈 Skills Demonstrated
 
 - Data importing and cleaning in Power Query
 - Data modeling and relationship creation
@@ -60,13 +60,13 @@ The Human Resources Analytics Dashboard supports HR decision-making by analyzing
 - Interactive slicers and page navigation
 - Dashboard formatting and user-focused reporting
 
-## Dataset
+## 🗂️ Dataset
 The datasets used in this repository are publicly available datasets downloaded from Kaggle.
 
 1. [Financial Sheets Dataset](https://www.kaggle.com/datasets/pacificrm/financial-sheets)
 2. [Human Resources Data Set, HRDataset_v14](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
-## How To Use
+## 🚀 How To Use This Repository
 
 - Download or clone this repository.
 - Open the .pbix files using Power BI Desktop.
@@ -74,7 +74,7 @@ The datasets used in this repository are publicly available datasets downloaded 
 - Refresh the report.
 - Use slicers and page navigation to explore the dashboard.
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 codealpha-powerbi-projects/
