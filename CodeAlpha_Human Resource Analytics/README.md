@@ -10,7 +10,7 @@ To create an interactive HR analytics dashboard that helps analyze workforce man
 
 ## Dataset
 
-Dataset used: Human Resources Data Set, HRDataset_v14 from Kaggle.
+Dataset used: [Human Resources Data Set, HRDataset_v14](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 The dataset includes:
 - Employee demographics
