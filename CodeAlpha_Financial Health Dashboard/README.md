@@ -1,4 +1,3 @@
-```markdown
 # Financial Health Dashboard
 
 ## Project Overview
