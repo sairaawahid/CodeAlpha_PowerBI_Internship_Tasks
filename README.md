@@ -1,5 +1,12 @@
 # CodeAlpha Power BI Internship Projects
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Business%20Intelligence-FF6F00?style=for-the-badge)
+![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-6A5ACD?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 This repository contains Power BI dashboard projects completed as part of the **CodeAlpha Internship 2026**. The projects focus on business intelligence, data visualization, KPI tracking, forecasting, and interactive dashboard development using publicly available datasets.
 
 ## Projects Included
