@@ -1,14 +1,12 @@
 # Financial Health Dashboard
 
-## Project Overview
-
 The Financial Health Dashboard is an interactive Power BI report designed to analyze an organization’s financial status. It provides insights into profitability, financial position, cash flow strength, and budgeting scenarios.
 
-## Objective
+## 🎯 Objective
 
 To develop an interactive dashboard that analyzes an organization's financial health and supports budgeting and financial planning.
 
-## Dataset
+## 🗂️ Dataset
 
 Dataset used: [Financial Sheets Dataset](https://www.kaggle.com/datasets/pacificrm/financial-sheets).
 
@@ -19,7 +17,7 @@ The dataset contains financial information such as:
 - Financial ratios
 - Market-related metrics
 
-## Dashboard Pages
+## 📊 Dashboard Pages
 
 1. Financial Overview
 2. Income Statement
@@ -27,7 +25,7 @@ The dataset contains financial information such as:
 4. Cash Flow
 5. Forecasting & Budget Planning
 
-## Key KPIs
+## 📈 Key KPIs
 
 - Sales
 - Net Profit
@@ -42,7 +40,7 @@ The dataset contains financial information such as:
 - Forecast Net Profit
 - Forecast Operating Cash Flow
 
-## Power BI Features Used
+## 🛠️ Power BI Features Used
 
 - Power Query data transformation
 - Unpivoting financial columns
