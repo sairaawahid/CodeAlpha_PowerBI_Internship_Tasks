@@ -56,7 +56,7 @@ The Human Resources Analytics Dashboard supports HR decision-making by analyzing
 ## Dataset
 The datasets used in this repository are publicly available datasets downloaded from Kaggle.
 
-1. [Financial Sheets Dataset]([https://example.com](https://www.kaggle.com/datasets/pacificrm/financial-sheets))
+1. [Financial Sheets Dataset](https://www.kaggle.com/datasets/pacificrm/financial-sheets)
 2. [Human Resources Data Set, HRDataset_v14](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 ## How To Use
