@@ -1,14 +1,12 @@
 # Human Resources Analytics Dashboard
 
-## Project Overview
-
 The Human Resources Analytics Dashboard is an interactive Power BI report designed to support workforce management and HR decision-making. It analyzes recruitment sources, employee turnover, satisfaction, engagement, performance, and future hiring needs.
 
-## Objective
+## 🎯 Objective
 
-To create an interactive HR analytics dashboard that helps analyze workforce management, recruitment, identify turnover risks, evaluate employee satisfaction and performance, and forecast hiring requirements.
+To create an interactive HR analytics dashboard that helps analyze workforce management and recruitment, identify turnover risks, evaluate employee satisfaction and performance, and forecast hiring requirements.
 
-## Dataset
+## 🗂️ Dataset
 
 Dataset used: [Human Resources Data Set, HRDataset_v14](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
@@ -25,7 +23,7 @@ The dataset includes:
 - Salary
 - Absences
 
-## Dashboard Pages
+## 📊 Dashboard Pages
 
 1. HR Overview
 2. Recruitment Analysis
@@ -34,7 +32,7 @@ The dataset includes:
 5. Performance Analysis
 6. Hiring Forecast
 
-## Key KPIs
+## 📈 Key KPIs
 
 - Total Employees
 - Active Employees
@@ -48,7 +46,7 @@ The dataset includes:
 - Replacement Hiring Need
 - Forecast Hiring Need
 
-## Power BI Features Used
+## 🛠️ Power BI Features Used
 
 - Power Query data cleaning
 - Date table creation
@@ -64,6 +62,6 @@ The dataset includes:
 - Synced slicers
 - Page navigator
 
-## Business Value
+## 🔍 Business Value
 
 The dashboard helps HR users identify high-turnover areas, compare recruitment source effectiveness, evaluate employee satisfaction and engagement, monitor performance patterns, and estimate future hiring needs.
