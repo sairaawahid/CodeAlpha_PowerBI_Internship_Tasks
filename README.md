@@ -77,10 +77,12 @@ codealpha-powerbi-projects/
 │
 ├── CodeAlpha_Financial_Health_Dashboard/
 │   ├── Financial Health Dashboard.pbix
-│   ├── Financial Sheets Dataset/
-│   └── README.md
+│   ├── Dataset/
+│   ├── README.md
+    └── requirements.txt
 │
 └── CodeAlpha_Human_Resources_Analytics/
     ├── Human_Resources_Analytics.pbix
     ├── HRDataset_v14
-    └── README.md
+    ├── README.md
+    └── requirements.txt
