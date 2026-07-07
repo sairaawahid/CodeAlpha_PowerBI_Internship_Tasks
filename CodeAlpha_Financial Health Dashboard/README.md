@@ -54,6 +54,6 @@ The dataset contains financial information such as:
 - Page navigation
 - Synced slicers
 
-## Business Value
+## 🔍 Business Value
 
 The dashboard helps users understand financial health by identifying profitability trends, cash flow risks, debt position, and possible future performance under different growth scenarios.
